@@ -1,0 +1,8 @@
+torch
+datasets
+transformers
+evaluate
+sacrebleu
+matplotlib
+ipykernel
+scipy
