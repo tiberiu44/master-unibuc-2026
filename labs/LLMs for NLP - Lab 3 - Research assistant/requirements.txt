@@ -1,0 +1,11 @@
+openai
+python-dotenv
+scikit-learn
+transformers
+torch
+spacy
+pandas
+datasets
+matplotlib
+seaborn
+accelerate
